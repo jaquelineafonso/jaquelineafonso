@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @jaquelineafonso
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# sobre mim
 
-<!---
-jaquelineafonso/jaquelineafonso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## editando o perfil
+
+
+###### teste 
+- 👋 Hi, I’m @jaquelineafonso
+meu email de contato e estudante.jaqueline@gmail.com.br
+- 👀 eu estou interessado em aprender a programar novas linguagens.
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de javascript e scratch 

@@ -1,9 +1,4 @@
-# sobre mim
 
-## editando o perfil
-
-
-###### teste 
 - 👋 Hi, I’m @jaquelineafonso
 meu email de contato e (email) (estudante.jaqueline@gmail.com.br)
 - 👀 eu estou interessado em aprender a programar novas linguagens.
